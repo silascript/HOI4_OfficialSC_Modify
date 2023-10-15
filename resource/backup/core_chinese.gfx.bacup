@@ -231,6 +231,9 @@ bitmapfonts = {
 
 			"gfx/fonts/chinese/Arial_18b"
 
+
+
+
 			# "gfx/fonts/chinese/hoi_16typewriter_1of4EX"	
 			# "gfx/fonts/chinese/hoi_16typewriter_2of4EX"	
 			# "gfx/fonts/chinese/hoi_16typewriter_3of4EX"	
@@ -393,19 +396,9 @@ bitmapfonts = {
 	
 	bitmapfont_override = {
 		name = "tahoma_60"
-		fontfiles = { 
-			# "gfx/fonts/chinese/hoi_mapfont4_1of11EX"
-			# "gfx/fonts/chinese/hoi_mapfont4_2of11EX"
-			# "gfx/fonts/chinese/hoi_mapfont4_3of11EX"
-			# "gfx/fonts/chinese/hoi_mapfont4_4of11EX"
-			# "gfx/fonts/chinese/hoi_mapfont4_5of11EX"
-			# "gfx/fonts/chinese/hoi_mapfont4_6of11EX"
-			# "gfx/fonts/chinese/hoi_mapfont4_7of11EX"
-			# "gfx/fonts/chinese/hoi_mapfont4_8of11EX"
-			# "gfx/fonts/chinese/hoi_mapfont4_9of11EX"
-			# "gfx/fonts/chinese/hoi_mapfont4_10of11EX"
-			# "gfx/fonts/chinese/hoi_mapfont4_11of11EX"
+		fontfiles = {
 
+			"gfx/fonts/hoi_mapfont4"
 			"gfx/fonts/chinese/mapfont_chn_0"
 			"gfx/fonts/chinese/mapfont_chn_1"
 			"gfx/fonts/chinese/mapfont_chn_2"
@@ -414,7 +407,6 @@ bitmapfonts = {
 			"gfx/fonts/chinese/mapfont_chn_5"
 			"gfx/fonts/chinese/mapfont_chn_6"
 			"gfx/fonts/chinese/mapfont_chn_7"
-
 		}
 	languages = { "l_simp_chinese" } 
 	}
@@ -433,10 +425,11 @@ bitmapfonts = {
 	bitmapfont_override = {
 		name = "Arial12"
 		fontfiles = { 
-			"gfx/fonts/chinese/Arial12_1of4"
-			"gfx/fonts/chinese/Arial12_2of4"
-			"gfx/fonts/chinese/Arial12_3of4"
-			"gfx/fonts/chinese/Arial12_4of4"
+
+			 "gfx/fonts/chinese/Arial12_1of4"
+			 "gfx/fonts/chinese/Arial12_2of4"
+			 "gfx/fonts/chinese/Arial12_3of4"
+			 "gfx/fonts/chinese/Arial12_4of4"
 		}
 	languages = { "l_simp_chinese" } 
 	}
